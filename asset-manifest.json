@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/snapkart-clone/static/css/main.cac24b18.css",
-    "main.js": "/snapkart-clone/static/js/main.a9f8527f.js",
+    "main.js": "/snapkart-clone/static/js/main.fa9d8846.js",
     "static/media/Banner-1.png": "/snapkart-clone/static/media/Banner-1.dffb6316a59cf17e0287.png",
     "static/media/Banner-3.png": "/snapkart-clone/static/media/Banner-3.498b5b68b6717f22b373.png",
     "static/media/Banner-2.png": "/snapkart-clone/static/media/Banner-2.1fa04bb27c1216579ee0.png",
     "static/media/Banner-4.png": "/snapkart-clone/static/media/Banner-4.5227d70831246ffe569e.png",
     "index.html": "/snapkart-clone/index.html",
     "main.cac24b18.css.map": "/snapkart-clone/static/css/main.cac24b18.css.map",
-    "main.a9f8527f.js.map": "/snapkart-clone/static/js/main.a9f8527f.js.map"
+    "main.fa9d8846.js.map": "/snapkart-clone/static/js/main.fa9d8846.js.map"
   },
   "entrypoints": [
     "static/css/main.cac24b18.css",
-    "static/js/main.a9f8527f.js"
+    "static/js/main.fa9d8846.js"
   ]
 }
