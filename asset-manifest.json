@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/snapkart-clone/static/css/main.cca635fd.css",
-    "main.js": "/snapkart-clone/static/js/main.622249ca.js",
+    "main.css": "/snapkart-clone/static/css/main.53874188.css",
+    "main.js": "/snapkart-clone/static/js/main.bc4a8fbf.js",
     "static/media/Banner-1.png": "/snapkart-clone/static/media/Banner-1.dffb6316a59cf17e0287.png",
     "static/media/Banner-3.png": "/snapkart-clone/static/media/Banner-3.498b5b68b6717f22b373.png",
     "static/media/Banner-2.png": "/snapkart-clone/static/media/Banner-2.1fa04bb27c1216579ee0.png",
     "static/media/Banner-4.png": "/snapkart-clone/static/media/Banner-4.5227d70831246ffe569e.png",
     "index.html": "/snapkart-clone/index.html",
-    "main.cca635fd.css.map": "/snapkart-clone/static/css/main.cca635fd.css.map",
-    "main.622249ca.js.map": "/snapkart-clone/static/js/main.622249ca.js.map"
+    "main.53874188.css.map": "/snapkart-clone/static/css/main.53874188.css.map",
+    "main.bc4a8fbf.js.map": "/snapkart-clone/static/js/main.bc4a8fbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.cca635fd.css",
-    "static/js/main.622249ca.js"
+    "static/css/main.53874188.css",
+    "static/js/main.bc4a8fbf.js"
   ]
 }
