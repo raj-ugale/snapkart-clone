@@ -43,16 +43,29 @@ It showcases core online shopping features like **search, cart, authentication, 
 - Developed by Raj Ugale
 
 
-## 📸 Screenshots
+### Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage]<img width="1900" height="912" alt="Home-Screen" src="https://github.com/user-attachments/assets/b2eb3313-7f7c-4b6a-b4e8-72be7c5f2e44" />
+
+### Product
+![Product] 
+<img width="1902" height="912" alt="Product-1" src="https://github.com/user-attachments/assets/6cd7699e-02f1-48f7-ab9d-c13f4935911b" />
+<img width="1902" height="908" alt="Product-2" src="https://github.com/user-attachments/assets/86c25f3a-3553-49bb-b08e-2abf73ced7df" />
+
 
 ### Search with Suggestions
-![Search](screenshots/search.png)
+![Search]<img width="1896" height="916" alt="Search" src="https://github.com/user-attachments/assets/711cdf12-b4d1-4e95-9907-d3d17bdd8c54" />
+
+
+### Search Results
+![Search Result]<img width="1891" height="911" alt="Search-Result-page" src="https://github.com/user-attachments/assets/558e7754-38a1-4725-a721-c5dfc2376ed8" />
+
+
 
 ### Product Details
-![Product Details](screenshots/product-details.png)
+![Product Details]<img width="1898" height="909" alt="Product-Details-page" src="https://github.com/user-attachments/assets/f328a3cc-4b2e-4b3e-b316-935d6683a916" />
+
 
 
 
@@ -64,14 +77,13 @@ It showcases core online shopping features like **search, cart, authentication, 
    cd snapkart
 
 2. install dependencies:
+   ```bash
    npm install
 
-3. start the development:
+4. start the development:
+   ```bash
    npm start
 
 ## 📌 Note
 
-This project is created solely for **educational and portfolio purposes**.  
-All product names, images, and logos are the property of their respective owners.  
-No copyright infringement is intended.  
-This project is **not intended for commercial use or deployment**.
+This project is created solely for **educational and portfolio purposes**. All product names, images, and logos are the property of their respective owners. No copyright infringement is intended. This project is **not intended for commercial use or deployment**.
